@@ -1,0 +1,52 @@
+# FunC build files
+*.fif
+*.boc
+*.cell
+*.tlb
+
+
+# JetBrains IDEs (GoLand, PyCharm, etc.)
+.idea/
+.vscode/
+
+# VS Code
+.vscode/
+
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment directories
+venv/
+env/
+ENV/
+.venv/
+
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.o
+*.out
+
+# Vendor directory (if not using Go modules)
+vendor/
+
+# Go modules
+go.mod
+go.sum
+
